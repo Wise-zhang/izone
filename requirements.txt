@@ -10,7 +10,7 @@ django-crispy-forms==1.6.1
 django-haystack==2.8.1
 django-imagekit==4.0.1
 django-redis==4.9.0
-djangorestframework==3.8.2
+djangorestframework==3.11.2
 drf-extensions==0.4.0
 drf-haystack==1.8.4
 elasticsearch==2.4.1
